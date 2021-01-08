@@ -1,0 +1,14 @@
+127.0.0.1 - - [28/Oct/2020:19:50:00 +0900] "GET / HTTP/1.1" 404 807
+0:0:0:0:0:0:0:1 - - [28/Oct/2020:19:50:02 +0900] "GET /html5_css3_project01_20200824/chapter04/exam_04_03.html HTTP/1.1" 200 275
+0:0:0:0:0:0:0:1 - - [28/Oct/2020:19:50:02 +0900] "GET /html5_css3_project01_20200824/chapter04/Wildlife.mp4 HTTP/1.1" 206 17958009
+0:0:0:0:0:0:0:1 - - [28/Oct/2020:19:50:02 +0900] "GET /html5_css3_project01_20200824/chapter04/Wildlife.mp4 HTTP/1.1" 206 33913
+0:0:0:0:0:0:0:1 - - [28/Oct/2020:19:50:02 +0900] "GET /html5_css3_project01_20200824/chapter04/Wildlife.mp4 HTTP/1.1" 206 33913
+0:0:0:0:0:0:0:1 - - [28/Oct/2020:19:50:02 +0900] "GET /favicon.ico HTTP/1.1" 404 818
+0:0:0:0:0:0:0:1 - - [28/Oct/2020:19:50:07 +0900] "GET /favicon.ico HTTP/1.1" 404 818
+0:0:0:0:0:0:0:1 - - [28/Oct/2020:19:50:07 +0900] "GET /html5_css3_project01_20200824/chapter04/Wildlife.mp4 HTTP/1.1" 206 17892473
+0:0:0:0:0:0:0:1 - - [28/Oct/2020:20:02:39 +0900] "GET /html5_css3_project01_20200824/chapter05/exam_05_01.html HTTP/1.1" 200 264
+0:0:0:0:0:0:0:1 - - [28/Oct/2020:20:02:45 +0900] "POST /html5_css3_project01_20200824/chapter05/search.jsp HTTP/1.1" 404 816
+0:0:0:0:0:0:0:1 - - [28/Oct/2020:20:03:22 +0900] "GET /html5_css3_project01_20200824/chapter05/exam_05_02.html HTTP/1.1" 200 642
+0:0:0:0:0:0:0:1 - - [28/Oct/2020:20:06:43 +0900] "GET /html5_css3_project01_20200824/chapter05/exam_05_05.html HTTP/1.1" 200 1444
+0:0:0:0:0:0:0:1 - - [28/Oct/2020:20:07:24 +0900] "GET /html5_css3_project01_20200824/chapter05/exam_05_06.html HTTP/1.1" 200 1191
+0:0:0:0:0:0:0:1 - - [28/Oct/2020:20:11:53 +0900] "GET /html5_css3_project01_20200824/chapter05/exam_05_14.html HTTP/1.1" 200 1277

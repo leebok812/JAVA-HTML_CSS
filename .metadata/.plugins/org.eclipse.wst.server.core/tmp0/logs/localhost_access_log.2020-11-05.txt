@@ -1,0 +1,4 @@
+127.0.0.1 - - [05/Nov/2020:18:33:31 +0900] "GET / HTTP/1.1" 404 807
+0:0:0:0:0:0:0:1 - - [05/Nov/2020:18:33:32 +0900] "GET /html5_css3_project01_20200824/chapter08/animationstyle_08_me.html HTTP/1.1" 200 2475
+0:0:0:0:0:0:0:1 - - [05/Nov/2020:18:33:32 +0900] "GET /html5_css3_project01_20200824/chapter08/images/bgsample.PNG HTTP/1.1" 200 462917
+0:0:0:0:0:0:0:1 - - [05/Nov/2020:18:33:32 +0900] "GET /favicon.ico HTTP/1.1" 404 818

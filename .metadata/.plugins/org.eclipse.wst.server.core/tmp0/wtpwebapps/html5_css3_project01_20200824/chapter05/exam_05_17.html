@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+<style>
+.reg {
+	font-size: 14px;
+	width: 110px;
+	color: #390;
+	float: left;
+	text-align: right;
+	margin-right: 10px;
+}
+
+form ul li { /* form의 ul의 li에 적용 하겠다는 뜻 */
+	list-style: none;
+	margin: 30px 0; /*라벨 사이 간격없이 딱 붙음*/
+	font-size: 14px;
+}
+</style>
+
+
+
+</head>
+<body>
+
+	<h1>겨울 방학 특강 신청</h1>
+
+	<form action="">
+		<fieldset>
+
+			<legend>수강 신청인</legend>
+			<ul>
+
+				<li><label class="reg" for="id">학번</label> <input type="text"
+					id="id" autofocus></li>
+
+				<li><label class="reg" for="name">이름</label> <input type="text"
+					id="name"></li>
+
+				<li><label class="reg" for="class">학과</label> <select size="5"
+					id="class" multiple>
+						<option value="archi">건축공학과</option>
+						<option value="mechanic">기계공학과</option>
+						<option value="indust">산업공학과</option>
+						<option value="elec">전기전자공학과</option>
+						<option value="computer">컴퓨터공학과</option>
+						<option value="chemical">화학공학과</option>
+				</select></li>
+
+			</ul>
+
+		</fieldset>
+
+	</form>
+
+</body>
+</html>

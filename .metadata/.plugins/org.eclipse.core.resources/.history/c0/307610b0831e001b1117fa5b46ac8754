@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+<style>
+#container {
+	width: 700px;
+	height: 300px;
+}
+
+
+
+.third {
+	color: red;
+}
+
+.go {
+	width: 120px;
+	white-space: nowrap;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	padding-right: 260px;
+}
+
+.go:hover {
+	background-color: yellow;
+}
+</style>
+
+
+
+</head>
+<body>
+	<div id="container">
+		<fieldset>
+			<div class="yop">
+				<img src="images/book.jpg" alt="책" align="left">
+			</div>
+			<div class="two">
+				<h3 class=first>웹 디자인 트렌드를 따라잡는 비법 대공개!</h3>
+				<br>
+				<p class="second">그래픽 프로그램으로 웹 디자인 요소를 일일이 만들어 웹사이트를 제작하는 시대는
+					지났다. 이제 모바일, 테블릿, PC 등 멀티 디바이스에 한 번에 적용할 수 있는 웹 디자인 방법을 알아야 한다. 바로
+					코딩을 이용한 웹 디자인이다.</p>
+				<br>
+				<p class="third">이 책은 HTML과 CSS에 대한 기초적인 내용만 알고 있다면 누구든 쉽게 코딩으로
+					여러 기기에 대응할 수 있는 웹 디자인을 만들수 있도록 기획되었다.</p>
+				<br>
+				<p class="go">
+					<a href="book/book.html">[책 자세히 보기]</a>
+				</p>
+
+			</div>
+
+
+
+
+
+
+
+
+
+		</fieldset>
+
+	</div>
+
+
+
+
+
+
+
+
+
+
+</body>
+</html>

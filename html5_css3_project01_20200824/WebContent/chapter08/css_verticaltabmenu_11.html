@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+<style>
+.home {
+	border-top-left-radius: 20px;
+}
+
+.profile {
+	border-top-right-radius: 20px;
+}
+
+ul.navi li {
+	list-style-type: none;
+	display: block;
+	width: 10em;
+	height: 3em;
+	float: left;
+	text-align: center;
+	border-right: 1px solid #818181;
+	box-shadow: 1px 1px 1px #bbb;
+	background-color: #00BFFF;
+	background: -webkit-gradient(linear, left top, left bottom, from(#00BFFF),
+		to(#1E90FF));
+}
+
+ul.navi li a {
+	display: block;
+	padding: .8em .5em .5em .5em;
+	text-decoration: none;
+	color: #FFFFFF;
+	text-shadow: 1px 1px 0px #cccccc;
+}
+
+li:hover .block1 {
+	display: inline-block;
+	opacity: 4;
+	float: right;
+	visibility: visible;
+}
+</style>
+
+
+
+</head>
+<body>
+
+	<h2>가로 탭 메뉴 만들기</h2>
+	<hr>
+	<div>
+		<ul class="navi">
+			<li class="home"><a href="#">HOME</a></li>
+			<li class="webD"><a href="#">웹개발 </a></li>
+			<li class="board"><a href="#">게시판</a></li>
+			<li class="profile"><a href="#">프로필</a></li>
+		</ul>
+	</div>
+
+
+</body>
+</html>

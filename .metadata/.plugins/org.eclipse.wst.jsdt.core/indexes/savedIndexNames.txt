@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+C:\java-emp-class-0824\html5_css3_lecture\html5_css3_workspace\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+3316822054.index
+698539908.index
+3031639375.index
+1215856898.index
+1582097845.index
+642454909.index
